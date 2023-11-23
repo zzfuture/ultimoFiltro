@@ -287,6 +287,12 @@ Devuelve cuantos pedidos hay en cada estado
 
 
 
+http://localhost:5099/api/Cliente/clientesRepresentanteCiudad
+
+http://localhost:5099/api/Cliente/clientesNoPagoRepresentanteOficinaTelefono
+
+
+
 
 
 
